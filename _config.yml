@@ -1,0 +1,53 @@
+title: Føroyskt
+email: bogi.wennerstrom@gmail.com
+description: >-
+  Vilt tú vera við til at gera telduheimin føroyskan? 
+  So ert tú komin á rætt stað. Hendan síðan inniheldur 
+  leiðbeiningar, orðalistar, leinkjur og onnur hjálparamboð
+  til týðan av ritbúnaði.
+#baseurl: "umset"
+#url: "https://foroyskt.github.io"
+#github_username:  foroyskt
+
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+include: [docs]
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+aux_links:
+  "Umset á GitHub":
+    - "//github.com/foroyskt/umset"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+gh_edit_link: true
+gh_edit_link_text: "Broyt hesa síðu á GitHub."
+gh_edit_repository: "https://github.com/foroyskt/umset"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
