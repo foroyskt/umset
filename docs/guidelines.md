@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Leiðreglur til Launchpad
-nav_order: 2
+nav_order: 3
 permalink: /guidelines-launchpad
 ---
 
 # Leiðreglur til Launchpad
 
-Hendan síðan inniheldur alt tað, ið tú skalt vita, fyri at umseta verkætlanir í Launchpad, t.d. Ubuntu. Einhvør persónur, ið ynskir at umseta til føroyskt, á Launchpad, eigur at lesa innihaldið á hesari síðu fyrst. Nýggir týðarir eru altíð vælkomnir á https://launchpad.net/~ubuntu-l10n-fo. Allar umsetingar verða samskipaðar á hesari skrá.
+Hendan síðan inniheldur alt tað, ið tú skalt vita, fyri at umseta verkætlanir í Launchpad, t.d. Ubuntu. Einhvør persónur, ið ynskir at umseta til føroyskt, á Launchpad, eigur at lesa innihaldið á hesari síðu fyrst. Nýggir týðarir eru altíð vælkomnir á https://launchpad.net/~ubuntu-l10n-fo og á okkara [Slack kanal](samband#slack). Allar umsetingar verða samskipaðar á hesari skrá.
 
 ## Grundleggjandi
 
