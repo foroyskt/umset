@@ -13,5 +13,8 @@ permalink: /gloassary
 | :---------- | :----------- | :------------- | :---------- |
 | Window      | Vindue       | Gluggi         |             |
 | Folder      | Mappe        | Skjátta        |             |
+| Team        | Hold         | Toymi          |             |
+
+		
 
 _Hevur tú eitt boð til onnur orð ið burdi verið á hesari skrá? Stovna eina [Pull-request á Github](https://github.com/foroyskt/umset) og legg hana afturat._
