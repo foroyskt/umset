@@ -18,6 +18,7 @@ Tað fyrsta, og mest týdningarmikla, er at velja eina verkætlan at týða. Vit
 * [Ubuntu](https://translations.launchpad.net/ubuntu)
 * [Penpot](https://hosted.weblate.org/projects/penpot/)
 * [Minecraft](https://crowdin.com/project/minecraft/fo)
+* [Mastodon](https://crowdin.com/project/mastodon/fo)
 
 _Kennur tú fleiri verkætlanir ið kunnu týðast? Stovna eina [Pull-request á Github](https://github.com/foroyskt/umset) og legg hana afturat._
 
