@@ -12,6 +12,7 @@ permalink: /gloassary
 | Enskt heiti | Danskt heiti | Føroyskt heiti | Frágreiðing |
 | :---------- | :----------- | :------------- | :---------- |
 | Window      | Vindue       | Gluggi         |             |
-| Folder      | Mappe        | Skjátta        |             |
+| Folder      | Mappe        | Skjátta        |         
+| Team        | Team         | Toymi          |             |
 
 _Hevur tú eitt boð til onnur orð ið burdi verið á hesari skrá? Stovna eina [Pull-request á Github](https://github.com/foroyskt/umset) og legg hana afturat._
