@@ -7,7 +7,7 @@ permalink: /guidelines-launchpad
 
 # Leiðreglur til Launchpad
 
-Hendan síðan inniheldur alt tað, ið tú skalt vita, fyri at umseta verkætlanir í Launchpad, t.d. Ubuntu. Einhvør persónur, ið ynskir at umseta til føroyskt, á Launchpad, eigur at lesa innihaldið á hesari síðu fyrst. Nýggir týðarir eru altíð vælkomnir á https://launchpad.net/~ubuntu-l10n-fo og á okkara [Slack kanal](samband#slack). Allar umsetingar verða samskipaðar á hesari skrá.
+Hendan síðan inniheldur alt tað, ið tú skalt vita, fyri at umseta verkætlanir í Launchpad, t.d. Ubuntu. Einhvør persónur, ið ynskir at umseta til føroyskt, á Launchpad, eigur at lesa innihaldið á hesari síðu fyrst. Nýggir týðarir eru altíð vælkomnir á https://launchpad.net/~ubuntu-l10n-fo og á okkara [Slack-rás](samband#slack). Allar umsetingar verða samskipaðar á hesari skrá.
 
 ## Grundleggjandi
 
