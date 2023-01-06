@@ -32,6 +32,8 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-relative-links (0.6.1)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.2.0)
@@ -77,6 +79,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.1)
   jekyll-feed (~> 0.12)
+  jekyll-redirect-from (~> 0.16.0)
   jekyll-relative-links (~> 0.6.1)
   just-the-docs
   tzinfo (>= 1, < 3)

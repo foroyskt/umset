@@ -6,7 +6,8 @@ gem "jekyll", "~> 4.3.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-relative-links", "~> 0.6.1" 
+  gem "jekyll-relative-links", "~> 0.6.1"
+  gem "jekyll-redirect-from", "~> 0.16.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

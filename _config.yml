@@ -13,6 +13,7 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+  - jekyll-redirect-from
 relative_links:
   enabled: true
   collections: true
