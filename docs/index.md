@@ -16,7 +16,7 @@ Vilt tú vera við til at gera telduheimin føroyskan? So ert tú komin á rætt
 Tað fyrsta, og mest týdningarmikla, er at velja eina verkætlan at týða. Vit mæla til, at tú velur eina verkætlan, ið tú nýtur ofta.
 
 * [Ubuntu](https://translations.launchpad.net/ubuntu)
-* [GNOME](https://l10n.gnome.org/languages/fo/)
+* [GNOME](https://l10n.gnome.org/languages/fo/) ([Weblate](https://weblate.umset.fo/))
 * [Penpot](https://hosted.weblate.org/projects/penpot/)
 * [Minecraft](https://crowdin.com/project/minecraft/fo)
 * [Mastodon](https://crowdin.com/project/mastodon/fo)

@@ -14,6 +14,10 @@ Hendan síðan inniheldur alt tað, ið tú skalt vita, fyri at umseta verkætla
 
 ## Grundleggjandi
 
-Verkætlanir á GNOME kunnu týðast á heimasíðu teirra (https://l10n.gnome.org/teams/fo/). Fyri at umseta skal man heinta `.po` fíluna fyri tí verkætlanini man vil umseta. Áðrenn ein byrjar at umseta, skal man leggja verkætlanina av, við at velja “Reserve for translation”. Tá ið hetta er gjørt, kann man umseta fíluna á sínari teldu. Tá ið man er liðugur at umseta sendur man fíluna uppaftur. Fílan verður síðan skoða og hareftir løgd í verkætlina. 
+Umsetingarskipanin hjá GNOME kann verða trupul hjá nýggjum at seta seg inn í. Tí hava stovna eina aðra síðu, har til ber at umseta GNOME verkætlanir: [https://weblate.umset.fo/](https://weblate.umset.fo/). Hendan síðan nýtur skipanina [Weblate](https://weblate.org/) ið er sera einføld at nýta, í mun til tí hjá GNOME. Vit viðmæla at tú nýtur hesa síðuna til at umseta.
+
+### Umset beinleiðis á GNOME
+
+Verkætlanir á GNOME kunnu eisini týðast á heimasíðu teirra (https://l10n.gnome.org/teams/fo/). Fyri at umseta skal man heinta `.po` fíluna fyri tí verkætlanini man vil umseta. Áðrenn ein byrjar at umseta, skal man leggja verkætlanina av, við at velja “Reserve for translation”. Tá ið hetta er gjørt, kann man umseta fíluna á sínari teldu. Tá ið man er liðugur at umseta sendur man fíluna uppaftur. Fílan verður síðan skoða og hareftir løgd í verkætlina. 
 
 Til umsetan av `.po`-fílum viðmæla vit [Gtranslator](https://wiki.gnome.org/Apps/Gtranslator), ið kann leggjast inn við `sudo apt install gtranslator` á Ubuntu.
