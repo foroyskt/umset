@@ -9,7 +9,7 @@ permalink: /ubuntu
 
 Tað ber nú til, at fáa Ubuntu á føroyskum. Inntil vit hava umsett 5% av stýriskipanini, verður føroyskt ikki útgivið av Ubuntu. Tí hava vit tikið sakina í egnar hendir og lagt okkara egna málpakka út. Hendan vegleiðing vísir á hvussu tú leggur málpakkan inn, og hvussu tú virkir hann.
 
-**GG**: Tað ber einans til at fáa Ubuntu Kinetic á føroyskum.
+**GG**: Málpakkar eru tøkir fyri hesar Ubuntu-útgávur: 26.04 LTS (Resolute), 25.04 (Plucky), 24.10 (Oracular), 24.04 LTS (Noble) og 22.10 (Kinetic).
 
 Tað fyrsta tú skalt gera, er at leggja eitt nýtt pakkasavn inn. Hetta gerst tú við at koyra fylgjandi stýriboð í arbeiðsstøðini:
 
@@ -34,6 +34,6 @@ Eftir at hetta er lagt inn, opna so “Settings”, vel “Region & Language”,
 
 ## Dagføringar
 
-Vit royna at fylgja við nær nýggjir “delta”-pakkar verða útgivnir á [Launchpad](https://translations.launchpad.net/ubuntu/kinetic/+language-packs). Tá ein nýggjur pakki verður útgivin, verða broytingar pakkaðar niður í eina dagføring sum síðan verður útgivin á pakkasavninum. Sum nú er, sær tað út til, at “delta”-pakkarnir verða útgivnir hvønn sunnudag (sí [núverandi skema]), og vit fara at royna at fylgja hesum.
+Vit royna at fylgja við nær nýggjir “delta”-pakkar verða útgivnir á [Launchpad](https://translations.launchpad.net/ubuntu/resolute/+language-packs). Tá ein nýggjur pakki verður útgivin, verða broytingar pakkaðar niður í eina dagføring sum síðan verður útgivin á pakkasavninum. Sum nú er, sær tað út til, at “delta”-pakkarnir verða útgivnir hvønn sunnudag (sí [núverandi skema]), og vit fara at royna at fylgja hesum.
 
 [núverandi skema]: https://dev.launchpad.net/Translations/LanguagePackSchedule
