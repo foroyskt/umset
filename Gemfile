@@ -23,4 +23,9 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+# logger 1.6.0 added a Fiber-local level override (@level_override), which
+# Jekyll 4.3.1 trips over in LogAdapter#adjust_verbosity -> writer.level:
+#   logger.rb: undefined method `[]' for nil (NoMethodError)
+# Modern Rubies bundle logger >= 1.6, so pin below it.
+gem "logger", "~> 1.5.3"
 gem "just-the-docs"
